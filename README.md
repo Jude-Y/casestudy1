@@ -1,7 +1,6 @@
 ## Payments/Billing
 ---
-![image](internetpayment.jpg)
-![image](mobilepayment.jpg)
+![image](digitalpayment.jpg)
 
 ## Overview 
 
