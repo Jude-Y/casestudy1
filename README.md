@@ -10,7 +10,7 @@ A process of collecting funds and making payments with a third party payment sys
 
 PayPal enables businesses or consumers with an email address to securely, conveniently and cost-effectively send and receive payments online.
 
-
+## Paypal's Main Competitors in the Market.
 PayPal's competitors to name a few are Google Wallet, Wepay, 2Checkout, Skrill, Intuit, Propay, Click2Sell, Dwolla, Venmo, Braintree, clickbank, strike.
 
 
